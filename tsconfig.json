@@ -1,0 +1,23 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"module": "commonjs",
+		"removeComments": true,
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"pretty": true,
+		"noEmitHelpers": false,
+		"declaration": true,
+		"noEmitOnError": false
+	},
+	"files": [
+		"node_modules/tns-core-modules/tns-core-modules.d.ts",
+		"node_modules/tns-platform-declarations/tns-core-modules/android17.d.ts",
+		"node_modules/tns-platform-declarations/tns-core-modules/ios.d.ts",
+		"node_modules/tns-platform-declarations/tns-core-modules/org.nativescript.widgets.d.ts",
+		"contacts-picker.ios.ts",
+		"contacts-picker.android.ts"
+	],
+	"compileOnSave": false
+}
+
