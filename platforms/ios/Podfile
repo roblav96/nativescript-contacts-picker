@@ -1,5 +1,2 @@
-# pod 'EPContactsPicker'
-# use_frameworks!
-# pod 'THContactPicker', '~> 2.0'
 pod 'EVContactsPicker', :git => 'https://github.com/edwardvalentini/EVContactsPicker'
-# pod 'APAddressBook'
+use_frameworks!
