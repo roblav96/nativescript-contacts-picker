@@ -3,15 +3,9 @@
 	"version": "1.0.0",
 	"description": "A NativeScript plugin to pick contacts",
 	"main": "contacts-picker.js",
-	"typescript": {
-		"definitions": [
-
-		]
-	},
 	"nativescript": {
 		"platforms": {
 			"ios": "2.0.0",
-			"android": "2.0.0"
 		}
 	},
 	"repository": {
