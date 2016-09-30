@@ -1,2 +1,1 @@
-pod 'EPContactsPicker', :git => 'https://github.com/ipraba/EPContactsPicker'
-use_frameworks!
+pod 'EVContactsPicker'
