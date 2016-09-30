@@ -1,2 +1,3 @@
-pod 'EPContactsPicker'
-use_frameworks!
+# pod 'EPContactsPicker'
+# use_frameworks!
+pod 'THContactPicker', '~> 2.0'
