@@ -5,7 +5,7 @@
 	"main": "contacts-picker.js",
 	"nativescript": {
 		"platforms": {
-			"ios": "2.0.0",
+			"ios": "2.0.0"
 		}
 	},
 	"repository": {
