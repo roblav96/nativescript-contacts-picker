@@ -1,2 +1,2 @@
-pod 'EVContactsPicker', '0.2.17'
+pod 'EVContactsPicker', :git => 'https://github.com/edwardvalentini/EVContactsPicker.git', :tag => '0.2.17'
 use_frameworks!
