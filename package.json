@@ -1,6 +1,6 @@
 {
 	"name": "nativescript-contacts-picker",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "A NativeScript plugin to pick contacts",
 	"main": "contacts-picker.js",
 	"nativescript": {
