@@ -1,2 +1,2 @@
-pod 'EPContactsPicker', :git => 'https://github.com/roblav96/EVContactsPicker.git'
+pod 'EVContactsPicker', :git => 'https://github.com/roblav96/EVContactsPicker.git'
 use_frameworks!
